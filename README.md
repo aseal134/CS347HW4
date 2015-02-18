@@ -14,7 +14,7 @@ CSID: Jt33328
 UTEID: Jt33328
 GITHUB: jeannettetang
 
-Name: Jerry Gamb
+Name: Gerardo Gamb
 CSID: jergamb
 UTEID: gg8745
 GITHUB: jergamb
